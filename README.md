@@ -4,8 +4,7 @@
 
 ## Inspiration
 
-Norvig's article (Learn Programming in 10 Years)
-http://norvig.com/21-days.html
+[Peter Norvig's Learn Programming in 10 Years](http://norvig.com/21-days.html)
 
 
 ## Book Notes
@@ -114,8 +113,8 @@ You can start the database server with:
         - You don't need to understand the internals of every function in the beginning (or ever)
         - You won't remember the internals of every function (ever)
     2. It's more important to understand the bigger picture before understanding the finer details
-        Q: How do you understand the big picture as quickly as possible?
-        A: -- Ask the senior devs --
+        - Q: How do you understand the big picture as quickly as possible?
+        - A: -- Ask the senior devs --
 
 - When dealing with a technology you aren't particularly interested in (e.g. front end web):
     - Try to look deeper into the problem, past the technology
