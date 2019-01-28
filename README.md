@@ -11,22 +11,22 @@
 
 ### Think Like A Programmer
 
-Planning against design weaknesses:
+Design weaknesses:
 - convoluted designs
-- can'get started
+- can't get started
 - fails to test (e.g. special cases)
 - overconfident
 - weak area
 
-Planning for your strengths:
+Strengths:
 - eye for detail
 - fast learner
 - fast coder
-- never gives up
+- never give up
 - super problem-solver
 - tinkerer
 
-Learning new languages
+Learning new languages:
 - take the time to learn
 - start with what you know
 - investigate what is different
@@ -36,9 +36,9 @@ Learning new languages
 ### Go in Action
 
 Importing:
-- Remote import
+- Remote import <!-- Some explanation? -->
 - Named import
-    - Using blank identifier (_) so that init() functions are called
+    - Using blank identifier (_) so that init() functions of that package are called
 
 Go tools:
 - go vet
@@ -99,13 +99,6 @@ Testing:
 - Mocking HTTP calls with net/http/httptest
     
 
-## Technology-specific Notes
-
-### PostgreSQL
-
-You can start the database server with:
-    /usr/lib/postgresql/11/bin/pg_ctl -D /var/lib/postgresql/11/main -l logfile start
-
 ## Self-reflection
 
 - When reading new code:
@@ -135,3 +128,11 @@ You can start the database server with:
         4. Execute
         5. Repeat planning and execution for intermediate outcomes
         
+
+## Technology-specific Notes
+
+### PostgreSQL
+
+You can start the database server with:
+    /usr/lib/postgresql/11/bin/pg_ctl -D /var/lib/postgresql/11/main -l logfile start
+
